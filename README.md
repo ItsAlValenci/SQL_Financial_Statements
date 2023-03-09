@@ -4,4 +4,4 @@ After 3 weeks of learning SQL as part of my master's degree, I structured Profit
 
 After analyzing the structure and content of the database, I developed a set of queries to retrieve the information needed and insert results into temporary tables through a stored procedure. To successfully complete the task, the stored procedure must receive the year as an argument, calculate the net profit or loss, and use that value to produce both P&L and B/S on result grids with headings for each major account line item and section. 
 
-Additionally, the % change between the current and previous year for every major line item on the P&L and B/S is included to improve fast assessment. 
+Additionally, the % change between the current and previous year for every major line item on the P&L and B/S is included to improve fast assessment.
